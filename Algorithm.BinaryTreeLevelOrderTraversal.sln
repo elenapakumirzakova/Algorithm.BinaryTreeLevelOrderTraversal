@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.BinaryTreeLevelOrderTraversal", "Algorithm.BinaryTreeLevelOrderTraversal\Algorithm.BinaryTreeLevelOrderTraversal.csproj", "{2ABBED32-17A0-409B-BFD3-C7F441BCB39A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ABBED32-17A0-409B-BFD3-C7F441BCB39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABBED32-17A0-409B-BFD3-C7F441BCB39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABBED32-17A0-409B-BFD3-C7F441BCB39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABBED32-17A0-409B-BFD3-C7F441BCB39A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58A8CF54-D3DC-4B62-966D-8917E3FBFF9C}
+	EndGlobalSection
+EndGlobal
